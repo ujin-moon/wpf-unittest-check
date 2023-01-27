@@ -1,0 +1,12 @@
+D:\Учеба\4 курс\Самообучение\UnitTest\MyCalcLib\MyCalcLib\bin\Debug\net5.0\ShoppingCartLibrary.deps.json
+D:\Учеба\4 курс\Самообучение\UnitTest\MyCalcLib\MyCalcLib\bin\Debug\net5.0\ShoppingCartLibrary.dll
+D:\Учеба\4 курс\Самообучение\UnitTest\MyCalcLib\MyCalcLib\bin\Debug\net5.0\ref\ShoppingCartLibrary.dll
+D:\Учеба\4 курс\Самообучение\UnitTest\MyCalcLib\MyCalcLib\bin\Debug\net5.0\ShoppingCartLibrary.pdb
+D:\Учеба\4 курс\Самообучение\UnitTest\MyCalcLib\MyCalcLib\obj\Debug\net5.0\ShoppingCartLibrary.csproj.AssemblyReference.cache
+D:\Учеба\4 курс\Самообучение\UnitTest\MyCalcLib\MyCalcLib\obj\Debug\net5.0\ShoppingCartLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\4 курс\Самообучение\UnitTest\MyCalcLib\MyCalcLib\obj\Debug\net5.0\ShoppingCartLibrary.AssemblyInfoInputs.cache
+D:\Учеба\4 курс\Самообучение\UnitTest\MyCalcLib\MyCalcLib\obj\Debug\net5.0\ShoppingCartLibrary.AssemblyInfo.cs
+D:\Учеба\4 курс\Самообучение\UnitTest\MyCalcLib\MyCalcLib\obj\Debug\net5.0\ShoppingCartLibrary.csproj.CoreCompileInputs.cache
+D:\Учеба\4 курс\Самообучение\UnitTest\MyCalcLib\MyCalcLib\obj\Debug\net5.0\ShoppingCartLibrary.dll
+D:\Учеба\4 курс\Самообучение\UnitTest\MyCalcLib\MyCalcLib\obj\Debug\net5.0\ref\ShoppingCartLibrary.dll
+D:\Учеба\4 курс\Самообучение\UnitTest\MyCalcLib\MyCalcLib\obj\Debug\net5.0\ShoppingCartLibrary.pdb

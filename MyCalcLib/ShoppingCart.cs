@@ -1,12 +1,34 @@
 ﻿using System;
+using System.Collections.Generic;
 
-namespace MyCalcLib
+namespace ShoppingCartLibrary
 {
-    public class MyCalc
+    [Serializable]
+    public class ShoppingCart : IDisposable
     {
-        public int Sum(int x, int y)
+        public List<Item> Items = new List<Item>();
+
+
+        public int Count
         {
-            return x + y;
+            get { return Items.Count; }
         }
+        public void Add(Item item)
+        {
+            Items.Add(item);
+        }
+        public void Dispose()
+        {
+            //cleanup code
+        }
+        public void Remove(int index)
+        {
+            Items.RemoveAt(index);
+        }
+    }
+    public class Item
+    {
+        public string Name { get; set; }
+        public int Quantity { get; set; }
     }
 }
