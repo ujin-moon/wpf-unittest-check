@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Учеба\\4 курс\\Самообучение\\UnitTest\\MyCalcLib\\MyCalcLib.Tests\\MyCalcLib.Tests.csproj": {}
+    "D:\\Учеба\\4 курс\\Самообучение\\UnitTest\\MyCalcLib\\MyCalcLib.Tests\\ShoppingCartLibrary.Tests.csproj": {}
   },
   "projects": {
-    "D:\\Учеба\\4 курс\\Самообучение\\UnitTest\\MyCalcLib\\MyCalcLib.Tests\\MyCalcLib.Tests.csproj": {
+    "D:\\Учеба\\4 курс\\Самообучение\\UnitTest\\MyCalcLib\\MyCalcLib.Tests\\ShoppingCartLibrary.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Учеба\\4 курс\\Самообучение\\UnitTest\\MyCalcLib\\MyCalcLib.Tests\\MyCalcLib.Tests.csproj",
-        "projectName": "MyCalcLib.Tests",
-        "projectPath": "D:\\Учеба\\4 курс\\Самообучение\\UnitTest\\MyCalcLib\\MyCalcLib.Tests\\MyCalcLib.Tests.csproj",
+        "projectUniqueName": "D:\\Учеба\\4 курс\\Самообучение\\UnitTest\\MyCalcLib\\MyCalcLib.Tests\\ShoppingCartLibrary.Tests.csproj",
+        "projectName": "ShoppingCartLibrary.Tests",
+        "projectPath": "D:\\Учеба\\4 курс\\Самообучение\\UnitTest\\MyCalcLib\\MyCalcLib.Tests\\ShoppingCartLibrary.Tests.csproj",
         "packagesPath": "C:\\Users\\evgen\\.nuget\\packages\\",
         "outputPath": "D:\\Учеба\\4 курс\\Самообучение\\UnitTest\\MyCalcLib\\MyCalcLib.Tests\\obj\\",
         "projectStyle": "PackageReference",

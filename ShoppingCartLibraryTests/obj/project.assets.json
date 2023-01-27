@@ -5740,11 +5740,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Учеба\\4 курс\\Самообучение\\UnitTest\\MyCalcLib\\MyCalcLib.Tests\\ShoppingCartLibrary.Tests.csproj",
-      "projectName": "ShoppingCartLibrary.Tests",
-      "projectPath": "D:\\Учеба\\4 курс\\Самообучение\\UnitTest\\MyCalcLib\\MyCalcLib.Tests\\ShoppingCartLibrary.Tests.csproj",
+      "projectUniqueName": "D:\\Учеба\\4 курс\\Самообучение\\UnitTest\\MyCalcLib\\ShoppingCartLibraryTests\\ShoppingCartLibraryTests.csproj",
+      "projectName": "ShoppingCartLibraryTests",
+      "projectPath": "D:\\Учеба\\4 курс\\Самообучение\\UnitTest\\MyCalcLib\\ShoppingCartLibraryTests\\ShoppingCartLibraryTests.csproj",
       "packagesPath": "C:\\Users\\evgen\\.nuget\\packages\\",
-      "outputPath": "D:\\Учеба\\4 курс\\Самообучение\\UnitTest\\MyCalcLib\\MyCalcLib.Tests\\obj\\",
+      "outputPath": "D:\\Учеба\\4 курс\\Самообучение\\UnitTest\\MyCalcLib\\ShoppingCartLibraryTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual studio`\\NuGetPackages",
@@ -5765,7 +5765,7 @@
       },
       "frameworks": {
         "net5.0": {
-          "targetAlias": "net5.0",
+          "targetAlias": ".NETCoreApp,Version=v5.0",
           "projectReferences": {
             "D:\\Учеба\\4 курс\\Самообучение\\UnitTest\\MyCalcLib\\MyCalcLib\\ShoppingCartLibrary.csproj": {
               "projectPath": "D:\\Учеба\\4 курс\\Самообучение\\UnitTest\\MyCalcLib\\MyCalcLib\\ShoppingCartLibrary.csproj"
@@ -5781,7 +5781,7 @@
     },
     "frameworks": {
       "net5.0": {
-        "targetAlias": "net5.0",
+        "targetAlias": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "MSTest.TestAdapter": {
             "target": "Package",

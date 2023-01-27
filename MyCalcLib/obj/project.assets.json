@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Учеба\\4 курс\\Самообучение\\UnitTest\\MyCalcLib\\MyCalcLib\\MyCalcLib.csproj",
-      "projectName": "MyCalcLib",
-      "projectPath": "D:\\Учеба\\4 курс\\Самообучение\\UnitTest\\MyCalcLib\\MyCalcLib\\MyCalcLib.csproj",
+      "projectUniqueName": "D:\\Учеба\\4 курс\\Самообучение\\UnitTest\\MyCalcLib\\MyCalcLib\\ShoppingCartLibrary.csproj",
+      "projectName": "ShoppingCartLibrary",
+      "projectPath": "D:\\Учеба\\4 курс\\Самообучение\\UnitTest\\MyCalcLib\\MyCalcLib\\ShoppingCartLibrary.csproj",
       "packagesPath": "C:\\Users\\evgen\\.nuget\\packages\\",
       "outputPath": "D:\\Учеба\\4 курс\\Самообучение\\UnitTest\\MyCalcLib\\MyCalcLib\\obj\\",
       "projectStyle": "PackageReference",

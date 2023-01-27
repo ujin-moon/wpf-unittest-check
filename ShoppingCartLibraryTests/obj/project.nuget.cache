@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vwuxc5ADaGiwEnJdM12pKJo1Wp6nY+pGMnrFRI/1uCq4cBBaVbtdcdkudL318wwRJ+FIwmzgIkXRt5FmeucXLA==",
+  "dgSpecHash": "YycSE5NF6vYj6zEiHEG14Cd9bN0fg7NARJ/ii7zPThmUHdYrtySGex5YSytKOmR0o7PTSsEMOLeyPj4zQ4dgig==",
   "success": true,
-  "projectFilePath": "D:\\Учеба\\4 курс\\Самообучение\\UnitTest\\MyCalcLib\\MyCalcLib.Tests\\ShoppingCartLibrary.Tests.csproj",
+  "projectFilePath": "D:\\Учеба\\4 курс\\Самообучение\\UnitTest\\MyCalcLib\\ShoppingCartLibraryTests\\ShoppingCartLibraryTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\evgen\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\evgen\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
